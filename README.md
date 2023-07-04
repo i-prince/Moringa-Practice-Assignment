@@ -32,7 +32,7 @@ To view the details of a recipe, click on its title. This will take you to a ded
 
 Feel free to bookmark your favorite recipes for quick access. You can also share recipes with others by using the social media sharing buttons provided.
 
-## contributing
+## Contributing
 If you'd like to contribute to the project, you can follow these steps:
 1. Fork the repository on GitHub.
 2. Clone your forked repository:
